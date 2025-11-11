@@ -35,11 +35,10 @@ font-weight: 700;
         color: #2e2f42;
 }
        .list-header {
-       color: #2e2f42;
-
-       }
+       color: #2e2f42; }
            .list-header:hover,
           .list-header:hover {color:#404bbf ;}
+          
  .address {font-weight: 400;
     font-size: 16px;
     font-style: normal;
